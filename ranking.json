@@ -4,36 +4,35 @@
     "proposal": "A",
     "rank": 1,
     "status": "ranked",
-    "score": 90,
-    "reason": "Strong experience, confirmed mandatory requirements, competitive price, 12-week timeline, and a complete project team."
+    "score": 93,
+    "reason": "Strong qualifying experience, competitive price, 12-week completion, 10-year workmanship warranty, and a complete named project team."
   },
   {
     "proposal": "B",
     "rank": null,
     "status": "flagged",
     "score": null,
-    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed, and the subcontractor will be confirmed after award."
+    "reason": "The bidder's own Ontario electrical contractor licence is unconfirmed; a licensed subcontractor is to be confirmed after award."
   },
   {
     "proposal": "C",
-    "rank": 3,
+    "rank": 2,
     "status": "ranked",
-    "score": 82,
-    "reason": "Meets the stated mandatory requirements and offers solid experience, warranties, and a defined team, but costs more and takes 14 weeks."
+    "score": 79,
+    "reason": "Mandatory requirements are confirmed, with relevant experience, a 14-week timeline, 10-year workmanship warranty, and a defined team."
   },
   {
     "proposal": "D",
     "rank": null,
     "status": "flagged",
     "score": null,
-    "reason": "Mandatory requirements are stated, but the completion timeline is not confirmed against the 16-week deadline."
+    "reason": "The completion timeline is undetermined, so compliance with the 16-week deadline cannot be verified."
   },
   {
     "proposal": "E",
-    "rank": 2,
+    "rank": 3,
     "status": "ranked",
-    "score": 86,
-    "reason": "Meets the stated mandatory requirements and offers a 12-year workmanship warranty, a six-person crew, and 24 months of monitoring."
+    "score": 79,
+    "reason": "Mandatory requirements are confirmed, with an 8-project track record, 12-year workmanship warranty, six-person crew, and 24-month monitoring."
   }
 ]
-
